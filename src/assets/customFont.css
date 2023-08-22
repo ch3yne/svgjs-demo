@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'CustomFont1';
+  src: url('./customFont1.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'CustomFont2';
+  src: url('./customFont2.woff') format('woff');
+}
